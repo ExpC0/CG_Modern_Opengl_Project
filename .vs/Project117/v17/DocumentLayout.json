@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Project117\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForPhongShadingWithTexture.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:vertexShaderForPhongShadingWithTexture.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForPhongShading.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:vertexShaderForPhongShading.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForGouraudShading.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:vertexShaderForGouraudShading.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\vertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:vertexShader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForPhongShadingWithTexture.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:fragmentShaderForPhongShadingWithTexture.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForPhongShading.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:fragmentShaderForPhongShading.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForGouraudShading.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:fragmentShaderForGouraudShading.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|C:\\Users\\USER\\source\\repos\\Project117\\fragmentShader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{73802634-6D91-4E33-A451-B4C967827946}|Project117.vcxproj|solutionrelative:fragmentShader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vertexShaderForPhongShadingWithTexture.vs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForPhongShadingWithTexture.vs",
+              "RelativeDocumentMoniker": "vertexShaderForPhongShadingWithTexture.vs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForPhongShadingWithTexture.vs",
+              "RelativeToolTip": "vertexShaderForPhongShadingWithTexture.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:48.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vertexShaderForPhongShading.vs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForPhongShading.vs",
+              "RelativeDocumentMoniker": "vertexShaderForPhongShading.vs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForPhongShading.vs",
+              "RelativeToolTip": "vertexShaderForPhongShading.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:47.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertexShaderForGouraudShading.vs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForGouraudShading.vs",
+              "RelativeDocumentMoniker": "vertexShaderForGouraudShading.vs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShaderForGouraudShading.vs",
+              "RelativeToolTip": "vertexShaderForGouraudShading.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:46.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vertexShader.vs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShader.vs",
+              "RelativeDocumentMoniker": "vertexShader.vs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\vertexShader.vs",
+              "RelativeToolTip": "vertexShader.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fragmentShaderForPhongShadingWithTexture.fs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForPhongShadingWithTexture.fs",
+              "RelativeDocumentMoniker": "fragmentShaderForPhongShadingWithTexture.fs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForPhongShadingWithTexture.fs",
+              "RelativeToolTip": "fragmentShaderForPhongShadingWithTexture.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:44.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fragmentShaderForPhongShading.fs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForPhongShading.fs",
+              "RelativeDocumentMoniker": "fragmentShaderForPhongShading.fs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForPhongShading.fs",
+              "RelativeToolTip": "fragmentShaderForPhongShading.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fragmentShaderForGouraudShading.fs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForGouraudShading.fs",
+              "RelativeDocumentMoniker": "fragmentShaderForGouraudShading.fs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShaderForGouraudShading.fs",
+              "RelativeToolTip": "fragmentShaderForGouraudShading.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:42.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAJ8TAAAAAAAAAAAiwKkTAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-26T13:12:54.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fragmentShader.fs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShader.fs",
+              "RelativeDocumentMoniker": "fragmentShader.fs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Project117\\fragmentShader.fs",
+              "RelativeToolTip": "fragmentShader.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-26T13:34:39.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
