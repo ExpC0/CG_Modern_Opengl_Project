@@ -1,28 +1,30 @@
 # CG Modern OpenGL Project
 
-This project is a 3D graphics application developed using modern OpenGL techniques. It demonstrates the design and rendering of a **Duplex Home with Yard**, showcasing the use of various OpenGL features such as camera movement, lighting, and shading.
+## Project Overview
 
-## Features
-- 3D modeling of a **Duplex Home with Yard**
-- Real-time rendering using modern OpenGL techniques
-- Camera controls to navigate the environment
-- Lighting and shading effects to enhance realism
+This project showcases a **Modern Duplex Home with Yard** using **OpenGL** for 3D graphics rendering. The project focuses on the implementation of real-time rendering techniques, showcasing a detailed 3D model of a duplex home along with a yard. This project leverages **OpenGL** and modern graphics techniques to create an immersive 3D experience, with a special emphasis on accurate lighting, shadows, and textures.
 
-## Demo
+### Key Features
+- **3D Rendering** of a modern duplex home with an adjacent yard.
+- **Real-time lighting** effects and accurate shadow rendering.
+- **Texturing** for walls, floors, and landscaping elements.
+- Interactive camera controls to navigate through the scene.
+- **Optimizations** for smooth performance on real-time applications.
 
-You can view the demo of the project in the PDF linked below:
-- [Demo: Modern Duplex Home with Yard](https://github.com/ExpC0/CG_Modern_Opengl_Project/blob/main/1907117_Demo_Modern_Duplex_Home_with_Yard.pdf)
+## Project Demo
 
-## Setup Instructions
+You can view a detailed demonstration of the project below:
 
-### Prerequisites
+- [1907117 Demo - Modern Duplex Home with Yard](https://github.com/ExpC0/CG_Modern_Opengl_Project/blob/main/1907117_Demo_Modern_Duplex_Home_with_Yard.pdf)
 
-Ensure you have the following dependencies installed:
-- **FreeGLUT**: For OpenGL utility functions and window management.
-- **GLEW**: For managing OpenGL extensions.
+## Project Report
 
-To install these dependencies on a Debian-based system like Kali Linux, use the following commands:
+For an in-depth analysis of the project, including the design process, challenges, and technical decisions, refer to the following report:
 
-```bash
-sudo apt update
-sudo apt install freeglut3-dev glew-utils
+- [Project Report: Modern Duplex Home with Yard](https://github.com/ExpC0/CG_Modern_Opengl_Project/blob/main/1907117_Report_Modern%20Duplex%20Home%20with%20Yard.pdf)
+
+## How to Run the Project
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ExpC0/CG_Modern_Opengl_Project.git
